@@ -1,3 +1,3 @@
-# Recipe-Finder
-Our Web project at INTECH S2
+Créer un site web qui propose des recettes de cuisine.
 
+Technologies: Php, MySql, Java Script, Html, Css.
